@@ -1,7 +1,7 @@
 # Olá, sou Beatriz Bacelar 👋
 
 ## Sobre mim 
-  - 👨‍🎓 Graduanda em Engenharia da Computação (Universidade Federal da Bahia)
+  - 👨‍🎓 Estudante de Engenharia da Computação (Universidade Federal da Bahia)
   - 👩‍💻 Estagiária de desenvolvimento na  <a href="https://www.linkedin.com/company/ecglobalsolutions/">@eCglobal</a>
   - 👩‍💼 Diretora de vendas <a href="https://www.linkedin.com/company/ufbatitan/">@TITAN</a>, Empresa Júnior
   - 🤩 Apaixonada por tecnologia e resolução de problemas
