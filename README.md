@@ -29,7 +29,7 @@ Java
 ### Tools<br />
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/anaclaramsb/)](https://github.com/BeatrizBacelar)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/anaclaramsb/)](https://github.com/BeatrizBacelar)
-![Visual Studio Code](http://img.shields.io/static/v1?label=&message=VSCode&color=4f68e8&style=flat&logo=visual-studio-code"/)
+[![Visual Studio Code](http://img.shields.io/static/v1?label=&message=VSCode&color=4f68e8&style=flat&logo=visual-studio-code"/)](https://github.com/BeatrizBacelar)
 
 -----
 
