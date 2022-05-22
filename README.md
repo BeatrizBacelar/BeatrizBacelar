@@ -3,7 +3,7 @@
 ## Sobre mim 
   - 👨‍🎓 Estudante de Engenharia da Computação (Universidade Federal da Bahia)
   - 👩‍💻 Estagiária de desenvolvimento na  <a href="https://www.linkedin.com/company/ecglobalsolutions/">@eCglobal</a>
-  - 👩‍💼 Diretora de vendas <a href="https://www.linkedin.com/company/ufbatitan/">@TITAN</a>, Empresa Júnior
+  - 👩‍💼 Gerente de Social Media <a href="https://www.linkedin.com/company/ufbatitan/">@TITAN</a>, Empresa Júnior
   - 🤩 Apaixonada por tecnologia e resolução de problemas
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/beatrizbacelarti)
